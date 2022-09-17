@@ -12,7 +12,7 @@ Shape of the UFO
  
 ## Results
 
-When opening the webpage the user will see header information and introductory text at the top, a set of five filter boxes on the left hand side, and a table of information on UFO sightings in the lower right.
+When opening the webpage the user will see header information and introductory text at the top, a set of five filter boxes on the left hand side, and a table of information on UFO sightings in the lower right.  
 ![alt text](https://github.com/benniehana111/UFOs/blob/main/static/images/UFO_sightings_webpage.png)
 
 To perform a search on the webpage users simply enter search criteria in one or more of the filter boxes at the left hand side of the page.
